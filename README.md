@@ -1,5 +1,4 @@
 # secret_repos
-# posting updates of game
 
 # To build everything: follow carefully
 
