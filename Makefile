@@ -3,6 +3,7 @@ current_dir = $(shell pwd)
 INC = -I ~/mylocal/include -I ~/mylocal/include/ncursestw -L ~/mylocal/lib
 LINK = -lncursestw -ldl -pthread
 .ONESHELL:
+
 build:
 	mkdir ~/mylocal
 	git clone https://github.com/mirror/ncurses.git
